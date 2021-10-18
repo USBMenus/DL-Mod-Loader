@@ -1,0 +1,10 @@
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\bin\Debug\game mod loader.exe.config
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\bin\Debug\game mod loader.exe
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\bin\Debug\game mod loader.pdb
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game mod loader.csproj.AssemblyReference.cache
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game_mod_loader.Form1.resources
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game_mod_loader.Properties.Resources.resources
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game mod loader.csproj.GenerateResource.cache
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game mod loader.csproj.CoreCompileInputs.cache
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game mod loader.exe
+C:\Users\tjcri\source\repos\game mod loader\game mod loader\obj\Debug\game mod loader.pdb
